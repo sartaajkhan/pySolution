@@ -13,4 +13,4 @@ pip install pysolution
 ```
 Note: With the current version, it should automatically downgrade your Sklearn package to version 0.24.2, due to a prediction model used for the dielectric constant in water.
 
-For a guide on how to use pySolution, please refer to the demo found in the repository.
+For a guide on how to use pySolution, please refer to the [demo](https://github.com/sartaajkhan/pySolution/blob/main/demo.ipynb) found in the repository.
