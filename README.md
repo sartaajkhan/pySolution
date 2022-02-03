@@ -1,4 +1,9 @@
 # pySolution
+
+## Installing Anaconda and Python
+Install [Anaconda](https://www.anaconda.com/products/individual) and proceed to launch Jupyter Notebook for all operations.
+
+## Description of package
 A solution chemistry toolkit that computes solution characteristics for modeling purposes
 
 Current version: 0.0.2.1.4.3
